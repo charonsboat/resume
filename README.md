@@ -1,6 +1,6 @@
 # David R. Myers II
 
-davidrmyersii@gmail.com | drm2.co
+[davidrmyersii@gmail.com](mailto:davidrmyersii@gmail.com) | [drm2.co](https://drm2.co)
 
 
 ## Skills
