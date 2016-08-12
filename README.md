@@ -55,15 +55,15 @@
 - Senior Web Application Developer (August 2015 - Present)
 - Within the first week of starting, I convinced the team to use Vagrant for centralized dev environments. I assumed many responsibilities including but not limited to: DevOps, Project Architecture/Design, Backend Development (APIs), Frontend Development (SPAs), DB Schema (Data) Design, and CI.
 
-**Renobit** - Newark, Ohio
-
-- Founder, Lead Developer (December 2014 - Present)
-- I founded a consulting company to manage the freelance work that was regularly requested from me. With this company, I have the opportunity to continually expand my business-centric knowledge as well as practice development.
-
 **NoDevs** - Newark, Ohio
 
 - Founder, Organizer (August 2015 - Present)
 - I founded a non-profit organization to host events related to development and technology. Since the start of this group, I have helped it grow to over 100 members, and it is still rising. I have led many workshops and given many lectures on topics ranging from Unity for Game Development to Identity Framework for .NET Authentication and Authorization. With this group (but not only through it), I stay actively engaged in the local dev community. The target audience of the group has changed too, and we now cater to Developers, Designers, and Makers. The definition of NoDevs is Not Only Developers.
+
+**Renobit** - Newark, Ohio
+
+- Founder, Lead Developer (December 2014 - Present)
+- I founded a consulting company to manage the freelance work that was regularly requested from me. With this company, I have the opportunity to continually expand my business-centric knowledge as well as practice development.
 
 **Vectra, Inc.** - Columbus, Ohio
 
