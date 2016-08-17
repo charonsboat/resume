@@ -50,9 +50,9 @@
 - Senior PHP Developer (February 2016 - Present)
 - Within the first week of starting, I convinced the team to use Vagrant for centralized dev environments. My primary responsibility was Backend (PHP) Developer, but I also aided in the development of the new Frontend system. My role was to lead in rewriting an older monolithic SaaS product as a modern SaaS structured application via an API Backend and an SPA Frontend.
 
-**InVentiv Health** - Columbus, Ohio
+**InVentiv Health (iCS)** - Columbus, Ohio
 
-- Senior Web Application Developer (August 2015 - Present)
+- Senior Web Application Developer (August 2015 - June 2016)
 - Within the first week of starting, I convinced the team to use Vagrant for centralized dev environments. I assumed many responsibilities including but not limited to: DevOps, Project Architecture/Design, Backend Development (APIs), Frontend Development (SPAs), DB Schema (Data) Design, and CI.
 
 **NoDevs** - Newark, Ohio
@@ -65,7 +65,7 @@
 - Founder, Lead Developer (December 2014 - Present)
 - I founded a consulting company to manage the freelance work that was regularly requested from me. With this company, I have the opportunity to continually expand my business-centric knowledge as well as practice development.
 
-**Vectra, Inc.** - Columbus, Ohio
+**Vectra** - Columbus, Ohio
 
 - .NET Software/Web Developer (December 2013 - December 2014)
 - My role was to build a customer-facing profiling system written in .NET MVC. This system is utilized to correctly calculate order shipments based on location demographics that are dynamically determined based on the current location profiles managed by each independent facility. My responsibilities included full-stack architecture of this application, maintenance of an evolving proprietary ecommerce system, maintenance of internal libraries, and organization of work and workflow through unit testing and agile practices.
